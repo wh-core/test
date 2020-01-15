@@ -13,5 +13,6 @@
         "psr-4": {
             "Sxq\\PackageTest\\": "src/"
         }
-    }
+    },
+    "version": "1.0"
 }
