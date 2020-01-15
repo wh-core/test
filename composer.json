@@ -1,0 +1,17 @@
+{
+    "name": "sxq/package-test",
+    "description": "测试发布包",
+    "authors": [
+        {
+            "name": "Shi Xiaoqing",
+            "email": "974196336@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Sxq\\PackageTest\\": "src/"
+        }
+    }
+}
